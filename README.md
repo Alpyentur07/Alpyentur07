@@ -1,5 +1,5 @@
 <div align="center"> 
- <h1 style="font-size: 2.5rem;"> # Hi 👋, my name is Alp</h1>
+ <h1 style="font-size: 2.5rem;">  Hi 👋, my name is Alp</h1>
 
   I'm 22 years old and studying Information Systems Engineering at Kocaeli University.
 </div>
