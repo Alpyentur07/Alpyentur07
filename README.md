@@ -1,10 +1,11 @@
-                                                                  # Hi 👋, my name is Alp 
- 
-                                          I'm 22 years old and studying Information Systems Engineering at Kocaeli University.
+<div align="center"> 
+  # Hi 👋, my name is Alp 
+
+  I'm 22 years old and studying Information Systems Engineering at Kocaeli University.
 
 - 📫 How to reach me: yenturalp@gmail.com
 - 
-
+</div>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alpyentur07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alp-yentür-291869223/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alp_yentur07/)
 
