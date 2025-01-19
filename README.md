@@ -1,5 +1,5 @@
-# Alpyentur07
- ### Hi there 👋, my name is Alp 
+# ### Hi 👋, my name is Alp 
+ 
  I'm 22 years old and studying Information Systems Engineering at Kocaeli University.
 
 - 📫 How to reach me: yenturalp@gmail.com
