@@ -2,7 +2,7 @@
 
   I'm 22 years old and studying Information Systems Engineering at Kocaeli University.
 </div>
-- 📫 How to reach me: yenturalp@gmail.com
+- 📫 How to reach me: <a href="mailto:yenturalp@gmail.com" style="text-decoration: none; color: #0078D4; font-weight: bold;">yenturalp@gmail.com</a>
  
 
 
